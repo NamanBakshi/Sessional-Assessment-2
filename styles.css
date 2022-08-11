@@ -68,7 +68,9 @@
     color:white;
 }
 
-
+.d66:hover{
+    text-decoration:underline;
+}
 
 
 
@@ -96,6 +98,10 @@
     
     
 } */
+
+#p11:hover{
+    font-size:100px;
+}
 
 #d412{
     background-color:blue;
